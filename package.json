@@ -73,7 +73,7 @@
   "unpkg": "dist/axios.min.js",
   "typings": "./index.d.ts",
   "dependencies": {
-    "follow-redirects": "^1.10.0"
+    "follow-redirects": "git+https://github.com/HalleyAssist/follow-redirects.git"
   },
   "bundlesize": [
     {
